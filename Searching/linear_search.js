@@ -10,7 +10,7 @@ function linearSearch(arr, target) {
     return -1;
 }
 
-let arr = [10, 20, 30, 40, 50];
+let arr = [10, 20, 45, 56, 50];
 
 let target = 30;
 
